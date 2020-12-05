@@ -19,3 +19,4 @@
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 # 添加AdguardHome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
