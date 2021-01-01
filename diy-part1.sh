@@ -16,7 +16,8 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 # 添加APP过滤模块
-git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
+# git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 # 添加AdguardHome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
+# 添加Passwall
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
